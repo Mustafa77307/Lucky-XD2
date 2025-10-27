@@ -24,8 +24,8 @@ module.exports = {
   BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
   // ===== OWNER & DEVELOPER SETTINGS =====
-  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "256789966218",
-  OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "ʟᴜᴄᴋʏ ➋➊➑",
+  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "923406982921",
+  OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "PRINCE MUSTAFA",
   DEV: process.env.DEV || "256789966218",
   DEVELOPER_NUMBER: '256789966218@s.whatsapp.net',
   MENU_AUDIO_URL: process.env.MENU_AUDIO_URL || 'https://files.catbox.moe/3v5i11.mp3',
@@ -41,11 +41,11 @@ NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363420656466131@newsletter',
   LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ʟᴜᴄᴋʏ xᴅ✦ ғʀᴏᴍ ʟᴜᴄᴋʏ ᴛᴇᴄʜ ʜᴜʙ  ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Tomilucky218/Lucky-XD2",
 
   // ===== REACTION & STICKER SETTINGS =====
-  AUTO_REACT: process.env.AUTO_REACT || "false",
+  AUTO_REACT: process.env.AUTO_REACT || "true",
   OWNER_REACT: process.env.OWNER_REACT || "false",
   CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
-  CUSTOM_REACT_EMOJIS: getConfig("CUSTOM_REACT_EMOJIS") || process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
-  STICKER_NAME: process.env.STICKER_NAME || "ᴋʜᴀɴ-ᴍᴅ",
+  CUSTOM_REACT_EMOJIS: getConfig("CUSTOM_REACT_EMOJIS") || process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,💟,💕,❤️‍🔥,💋,💞,🫦,🫀,💌,😍,😘,🥺,😻,💔,😎,🤭,😜,😭,🤣,😡,🥰,🥵,🤑,🤮,😹,💫",
+  STICKER_NAME: process.env.STICKER_NAME || "LORD-MUSTAFA-X",
   AUTO_STICKER: process.env.AUTO_STICKER || "false",
 
   // ===== MEDIA & AUTOMATION =====
@@ -66,10 +66,10 @@ NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363420656466131@newsletter',
   PM_BLOCKER: process.env.PM_BLOCKER || "true",
 
   // ===== BOT BEHAVIOR & APPEARANCE =====
-  DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
+  DESCRIPTION: process.env.DESCRIPTION || "*© Powered By LORD-MUSTAFA-X*",
   PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
-  AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
+  AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
   AUTO_BIO: process.env.AUTO_BIO || "false",
   WELCOME: process.env.WELCOME || "false",
